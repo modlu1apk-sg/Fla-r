@@ -1,0 +1,6 @@
+{
+  "name": "Flaşör Pro",
+  "description": "Çok fonksiyonlu flaş ışık, acil durum sinyalleri, SOS, stroboskop, renkli ekran modları ve Mors kod dönüştürücü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
